@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutrivittaIMC", "NutrivittaIMC\NutrivittaIMC.csproj", "{ECA64E12-77CC-4E2F-BC83-9402D422822C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteIMC", "TesteIMC\TesteIMC.csproj", "{5868ED22-DA9B-40CF-B1D5-9DB9EBD233A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECA64E12-77CC-4E2F-BC83-9402D422822C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA64E12-77CC-4E2F-BC83-9402D422822C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA64E12-77CC-4E2F-BC83-9402D422822C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA64E12-77CC-4E2F-BC83-9402D422822C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5868ED22-DA9B-40CF-B1D5-9DB9EBD233A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5868ED22-DA9B-40CF-B1D5-9DB9EBD233A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5868ED22-DA9B-40CF-B1D5-9DB9EBD233A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5868ED22-DA9B-40CF-B1D5-9DB9EBD233A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A3AD69B-598B-4292-BDE0-9184BE7F0C2D}
+	EndGlobalSection
+EndGlobal

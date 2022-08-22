@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\PROGRAMAÇÃO\SENAI FULL STACK\UC 15 TESTES BACK END\UC 15\Nutrivitta\NutrivittaIMC\NutrivittaIMC\bin\Debug\net6.0\NutrivittaIMC.deps.json
+C:\Users\User\Desktop\PROGRAMAÇÃO\SENAI FULL STACK\UC 15 TESTES BACK END\UC 15\Nutrivitta\NutrivittaIMC\NutrivittaIMC\bin\Debug\net6.0\NutrivittaIMC.dll
+C:\Users\User\Desktop\PROGRAMAÇÃO\SENAI FULL STACK\UC 15 TESTES BACK END\UC 15\Nutrivitta\NutrivittaIMC\NutrivittaIMC\bin\Debug\net6.0\NutrivittaIMC.pdb
+C:\Users\User\Desktop\PROGRAMAÇÃO\SENAI FULL STACK\UC 15 TESTES BACK END\UC 15\Nutrivitta\NutrivittaIMC\NutrivittaIMC\obj\Debug\net6.0\NutrivittaIMC.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROGRAMAÇÃO\SENAI FULL STACK\UC 15 TESTES BACK END\UC 15\Nutrivitta\NutrivittaIMC\NutrivittaIMC\obj\Debug\net6.0\NutrivittaIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PROGRAMAÇÃO\SENAI FULL STACK\UC 15 TESTES BACK END\UC 15\Nutrivitta\NutrivittaIMC\NutrivittaIMC\obj\Debug\net6.0\NutrivittaIMC.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PROGRAMAÇÃO\SENAI FULL STACK\UC 15 TESTES BACK END\UC 15\Nutrivitta\NutrivittaIMC\NutrivittaIMC\obj\Debug\net6.0\NutrivittaIMC.AssemblyInfo.cs
+C:\Users\User\Desktop\PROGRAMAÇÃO\SENAI FULL STACK\UC 15 TESTES BACK END\UC 15\Nutrivitta\NutrivittaIMC\NutrivittaIMC\obj\Debug\net6.0\NutrivittaIMC.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROGRAMAÇÃO\SENAI FULL STACK\UC 15 TESTES BACK END\UC 15\Nutrivitta\NutrivittaIMC\NutrivittaIMC\obj\Debug\net6.0\NutrivittaIMC.dll
+C:\Users\User\Desktop\PROGRAMAÇÃO\SENAI FULL STACK\UC 15 TESTES BACK END\UC 15\Nutrivitta\NutrivittaIMC\NutrivittaIMC\obj\Debug\net6.0\refint\NutrivittaIMC.dll
+C:\Users\User\Desktop\PROGRAMAÇÃO\SENAI FULL STACK\UC 15 TESTES BACK END\UC 15\Nutrivitta\NutrivittaIMC\NutrivittaIMC\obj\Debug\net6.0\NutrivittaIMC.pdb
+C:\Users\User\Desktop\PROGRAMAÇÃO\SENAI FULL STACK\UC 15 TESTES BACK END\UC 15\Nutrivitta\NutrivittaIMC\NutrivittaIMC\obj\Debug\net6.0\ref\NutrivittaIMC.dll
